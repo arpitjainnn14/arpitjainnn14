@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Webcam Detecting moving Objects**
+- 🔭 I’m currently working on **Food Order Management System**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science and Web Development**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
